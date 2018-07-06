@@ -3,10 +3,15 @@ Introduction
         - http://kangax.github.io/compat-table/es6/
         - Check Browser Version
             - About Chrome 
+    - Transpiling  
+        - Babel, Traceur, Closure 
 Chapter 1
     - Introduction to Babel 
         - Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in old browsers or environments.
+        - Created by Sebastian McKenzie (Facebook)
+        - Preferred transpilier for react 
     - https://babeljs.io/repl/ 
+        - let x = "hello";
     - Babel Browser Transpiling 
     - Babel Webpack Transpiling
     - Transpiling Using Webpack 
